@@ -1,5 +1,5 @@
 # Getting Started with the .NET MAUI Cartesian Charts
-A quick-start project that helps you to integrate a Cartesian Charts control in the .NET MAUI application by adding the Syncfusion [.NET MAUI Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-charts-github-samplesting-started) package from NuGet. This project contains simple code customizations like how to initialize the chart axis, and add a title, data labels, legend, and tooltips.
+A quick-start project that helps you to integrate a Cartesian Charts control in the .NET MAUI application by adding the Syncfusion [.NET MAUI Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-charts-github-samples) package from NuGet. This project contains simple code customizations like how to initialize the chart axis, and add a title, data labels, legend, and tooltips.
 
 Refer to the following documentation for the Syncfusion .NET MAUI Cartesian Charts Control: 
 https://help.syncfusion.com/maui/cartesian-charts/getting-started
